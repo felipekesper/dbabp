@@ -1,0 +1,3 @@
+# A cada 3 minutos o script para inserção de dados será executado e alimentará um arquivo .log
+
+*/3 * * * * /home/oracle/auto_insert.sh >> /home/oracle/auto_insert.log
