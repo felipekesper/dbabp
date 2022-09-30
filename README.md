@@ -4,7 +4,7 @@ Projeto básico de inserção automática em tabelas para estudo de conceitos de
 
 User Management, Tablespace Management, Cold and Hot Backups, Recovery from failures.
 
-Site para geração aleatória de dados: 
+Site para gerar dados de forma aleatória: 
 - https://www.mockaroo.com/
 
 Softwares utilizados:
