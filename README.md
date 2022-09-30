@@ -1,6 +1,6 @@
 DBABP
 
-Projeto básico de inserção automática em tabelas para estudo de conceitos de administração de banco de dados Oracle.
+Projeto básico de inserção aleatória automática em tabelas para estudo de conceitos de administração de banco de dados Oracle.
 
 User Management, Tablespace Management, Cold and Hot Backups, Recovery from failures.
 
