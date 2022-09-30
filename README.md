@@ -7,5 +7,6 @@ User Management, Tablespace Management, Cold and Hot Backups, Recovery from fail
 Site para geração aleatória de dados: 
 - https://www.mockaroo.com/
 
-Máquina Virtual Oracle Linux 8.6
-Oracle Database 19c Enterprise Edition Release 19.0.0.0.0
+Softwares utilizados:
+- Máquina Virtual Oracle Linux 8.6
+- Oracle Database 19c Enterprise Edition Release 19.0.0.0.0
